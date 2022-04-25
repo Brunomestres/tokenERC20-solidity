@@ -56,9 +56,9 @@ interface IERC20 {
 
 contract TokenERC20 is IERC20 {
     
-    string public constant name = "MestresSantana";
+    string public constant name = "BrunoRibeiro";
     
-    string public constant symbol = "MSE";
+    string public constant symbol = "BRM";
     
     uint8 public constant decimals = 18;
 
